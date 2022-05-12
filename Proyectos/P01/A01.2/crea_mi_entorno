@@ -1,0 +1,37 @@
+echo Crear carpeta "'PCL'"...
+mkdir PCL
+echo listo
+echo acceder a "'PCL'"
+cd PCL
+echo Crear carpeta "'Proyectos'" dentro de PCL..
+mkdir Proyectos
+echo listo
+echo Crear carpeta "'Varios'" dentro de PCL..
+mkdir Varios
+echo listo
+echo acceder a "'Proyectos'"
+cd Proyectos
+echo Crear carpeta "'P01'"
+mkdir P01
+echo listo
+echo Crear carpeta "'P02'"
+mkdir P02
+echo listo
+echo Crear carpeta "'P03'"
+mkdir P03
+echo listo
+echo Crear carpeta "'P04'"
+mkdir P04
+echo listo
+echo Acceder a "'P01'"
+cd P01
+echo Crear carpeta "'A01.1'"
+mkdir "A01.1"
+echo listo
+echo Crear carpeta "'A01.2'"
+mkdir "A01.2"
+echo listo
+echo script finalizado
+
+
+
